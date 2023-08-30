@@ -2,3 +2,5 @@ c#_readwithoutaliases/LineMetricsAPI/bin
 c#_readwithoutaliases/LM_RestAPI_Example_1/obj
 c#_readwithoutaliases/LM_RestAPI_Example_1/bin
 c#_readwithoutaliases/LineMetricsAPI/obj
+shell_import_data_from_aqicn/lm_restapi_import_from_aqicn_bulk.list
+shell_import_data_from_aqicn/lm_restapi_import_from_aqicn.env
